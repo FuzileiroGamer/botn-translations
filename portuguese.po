@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: portuguese\n"
 "POT-Creation-Date: 2020-02-07 21:37\n"
-"PO-Revision-Date: 2020-02-16 11:48-0300\n"
+"PO-Revision-Date: 2020-02-20 18:00-0300\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -216,7 +216,7 @@ msgstr "Olha, não há lugar em @WORLD_NAME@ por onde eu não tenha rastejado."
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(0).Lines
 msgctxt ",06DCC78B4F1DECA217645DA58B3BB2A4"
 msgid "Fern help mastah! Fern harvest fluidssss for you!"
-msgstr "Fern ajuda mestreee! Fern colhe fluidosss pra você!"
+msgstr "Samambaia ajuda mestreee! Samambaia colhe fluidosss pra você!"
 
 #. Key:	06F45D04453307E37897C89FC16861F0
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(8).Lines
@@ -237,7 +237,7 @@ msgstr "Esse mundo é lar dos(as) @MONSTER_RACE@, uma enigmática raça de híbr
 #: /Game/Dialogue/Fern/Default/FernDefault01.Default__FernDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",07F233504BDA1232640FB1846CBFE868"
 msgid "Mastah! Fern love you."
-msgstr "Mestree! Fern ama você."
+msgstr "Mestree! Samambaia ama você."
 
 #. Key:	07F5EE754EC13715610F3E8746D2A3D2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_AboutLamias.Default__NeelaDefault01_AboutLamias_C.SessionData.Lines(0).Lines
@@ -356,7 +356,7 @@ msgstr "Talvez um banho? Ou talvez um dos seus @MONSTER_RACE@ selvagens esteja s
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",0D9D20584BA7B523EE2834B29064B88E"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr "Hmmm mestree! Finalmente Fern pode ter seus fluidos?!"
+msgstr "Hmmm mestree! Finalmente Samambaia pode ter seus fluidos?!"
 
 #. Key:	0DB9C395441D2A229D61EE963260C09C
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.TitanCave.ManageActionMessage
@@ -582,7 +582,7 @@ msgstr "Se eu tenho que passar o resto da eternidade em um único lugar, eu não
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R01.Default__BlossomDefault01_R01_C.SessionData.Lines(0).Lines
 msgctxt ",146C8ABB4CFE56E192BE198657474339"
 msgid "You are... the one that pleasured Fern mother."
-msgstr "Você é... aquela que deu prazer à mamãe Fern."
+msgstr "Você é... aquela que deu prazer à mamãe Samambaia."
 
 #. Key:	1494AA5040692D75A2E458AE890541FA
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_FloatRhyme.Default__ParvatiDefault01_FloatRhyme_C.SessionData.Lines(3).Lines
@@ -864,7 +864,7 @@ msgstr "Capture uma Foxen fêmea, se já não o fez, e retorne à mim. Então fa
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(6).Lines
 msgctxt ",2087D4A34628AB4B8A51C4827BDC8AA0"
 msgid "Fern hope this pleases mastah greatly..."
-msgstr "Fern espera que isso agrade bastante o mestree..."
+msgstr "Samambaia espera que isso agrade bastante o mestree..."
 
 #. Key:	20A752DD41AFEBDD2A4852BD029B894E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(2).LinesToFemale
@@ -984,7 +984,7 @@ msgstr "Oh não! Eu espero que ocê entenda."
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(6).Lines
 msgctxt ",244693F347E948FB69765A8A6CFF9E08"
 msgid "Ohhh... mastah... ahhh... taste your fluids please. Fern feels them coming..."
-msgstr "Ohhh. mestree... ahhh... prove seus fluidos por favor. Fern sente eles vindo..."
+msgstr "Ohhh. mestree... ahhh... prove seus fluidos por favor. Samambaia sente eles vindo..."
 
 #. Key:	249E987842C35A9986491A967E86BEC3
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(21 - Value).TraitIcons.HelpText
@@ -1041,7 +1041,7 @@ msgstr "Como posso ajudar-lhe humana?"
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01.Default__BlossomDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",276B525843A991FAE2D5FAAE9243EFC9"
-msgid "Mastah! Blossom love you."
+msgid "Mastah! Flor love you."
 msgstr "Mestreee! Flor te ama."
 
 #. Key:	2792356C47CF43619493DA8F71F0D9A0
@@ -1170,7 +1170,7 @@ msgstr "Eu tenho que trocar minhas roupas de baixo com certa frequência já que
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(4).Lines
 msgctxt ",2DC7EABB434FE7136DE3498D19A6B8B9"
 msgid "Give Fern all milky... hiss! Grow faster with more milky."
-msgstr "Dê para a Fern todo o leite... Isssso! Cresce mais rápido com leite."
+msgstr "Dê para Samambaia todo o leite... Isssso! Cresce mais rápido com leite."
 
 #. Key:	2DF7474B4ED132A075973ABFA667399C
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_RL.Default__RomyDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -1212,7 +1212,7 @@ msgstr "Wow! Não pode ser!"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",2E926B8847D675F1C4CAAFAC2732930B"
 msgid "Fern need human milk to grow into big Alraune! Hissss, Fern suck nipples now!"
-msgstr "Fern precisa de leite humano para ser uma grande Alraune! Hisss, Fern chupa mamilos agora!"
+msgstr "Samambaia precisa de leite humano para ser uma grande Alraune! Hisss, Samambaia chupa mamilos agora!"
 
 #. Key:	2EF454D94FCEA805F55F20A94627C808
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiGreeting01.Default__ParvatiGreeting01_C.SessionData.LinesToFuta(6).LinesToFuta
@@ -1261,7 +1261,7 @@ msgstr "Minha vulva é sagrada e mágica. Que sua língua seja agraciada por ela
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",3101A3934639560426484AA6C6AAE3A1"
 msgid "Fern!"
-msgstr "Fern!"
+msgstr "Samambaia!"
 
 #. Key:	3169578649A185428A32E78395F9C48E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(3).LinesToFemale
@@ -1317,7 +1317,7 @@ msgstr "Oh! sua pele é tão macia! Eu amo o toque dala na minha bunda... ahhh."
 #: /Game/Dialogue/AmberMae/Default/AmberMaeGreeting01.Default__AmberMaeGreeting01_C.SessionData.Lines(9).Lines
 msgctxt ",330EAC0C483DA43FAFCBCBB789D5AB9E"
 msgid "'Twas nice meet'n ye @BREEDER_NAME@..."
-msgstr "Foi bom te conhecer @BREEDER_NAME@..."
+msgstr "Foi bom conhecer ocê @BREEDER_NAME@..."
 
 #. Key:	335AC6B54A917B8EBB17218E2A338F3C
 #. SourceLocation:	/Game/Dialogue/Cassie/Default/CassieGreeting01.Default__CassieGreeting01_C.SessionData.Lines(5).Lines
@@ -1684,7 +1684,7 @@ msgstr "Segundo as minhas teorias, eu estimo que os @MONSTER_RACE@ são em torno
 #: /Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Start.Default__AmberMaeSuckJugs_Start_C.SessionData.Lines(1).Lines
 msgctxt ",41D4E33A4F278EEAC8E03DBD1A9618E5"
 msgid "I'm get'n wet, milk me 'lil human! Drink it all!"
-msgstr "Eu tô ficando molhada, me ordenhe humano! Beba tudo!"
+msgstr "Eu tô ficando molhada, me ordenhe humano! Bebe tudo!"
 
 #. Key:	42094BD145964827266556B272FD2005
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP3/FernGreeting03.Default__FernGreeting03_C.SessionData.LinesToMale(4).LinesToMale
@@ -2189,7 +2189,7 @@ msgstr "Balançante"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R04.Default__FernDefault01_R04_C.SessionData.Lines(0).Lines
 msgctxt ",52570DF44A9EF55907B4EBBCCC8EFB52"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr "Hmmm mestree! Finalmente Fern pode ter seus fluidos?!"
+msgstr "Hmmm mestree! Finalmente Samambaia pode ter seus fluidos?!"
 
 #. Key:	52642BC9475ED06B0EBBA4AA6032CE9D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(18).LinesToMale
@@ -2231,14 +2231,14 @@ msgstr "Eu tenho @MONSTER_RACE@ para ascender."
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(10).Lines
 msgctxt ",544F5F944F9E5D60454A39A741792497"
 msgid "Fern hope this pleases mastah greatly..."
-msgstr "Fern espera que isso agrade bastante o mestree..."
+msgstr "Samambaia espera que isso agrade bastante o mestree..."
 
 #. Key:	5477799C4F9B5398BECB918C51B6CC44
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Cancel.Default__AmberMaeSuckJugs_Cancel_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeSuckJugs_Cancel.Default__AmberMaeSuckJugs_Cancel_C.SessionData.Lines(0).Lines
 msgctxt ",5477799C4F9B5398BECB918C51B6CC44"
 msgid "Forgive me if I was com'n on too strong! I hope I didn't offend ye..."
-msgstr "Me desculpe se eu fui muito agressiva. Espero que não tenha ofendido ocê..."
+msgstr "Me desculpe se eu fui muito agressiva. Espero que'ocê não tenha ofendido..."
 
 #. Key:	54A656CF43AE3DD98B149D8CB0E836B1
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R02.Default__FaleneDefault01_R02_C.SessionData.Lines(4).Lines
@@ -2331,7 +2331,7 @@ msgstr "Veja bem humano, futas não precisam delas."
 #: /Game/Dialogue/Emissary/Default/EmissaryDefault01.Default__EmissaryDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",59AE8221430C7DB9A85B7BB2B4663795"
 msgid "@BREEDER_NAME@, I am yours, through the Goddess."
-msgstr "@BREEDER_NAME@, eu sou sua pela Deusa."
+msgstr "@BREEDER_NAME@, eu sou sua através da Deusa."
 
 #. Key:	59BDE65E43216BA7D5472BBCEE4B2E25
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RechargeSpiritForm.Default__LeylannaDefault01_RechargeSpiritForm_C.SessionData.Lines(0).Lines
@@ -2381,7 +2381,7 @@ msgstr "Me ensine uma nova posição sexual!"
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_RL_F.Default__BlossomDefault01_RL_F_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",5ACEB47B4DC474437836D1BE5DF53CC7"
 msgid "Fern, your blossom is talking!"
-msgstr "Fern, sua flor está falando!"
+msgstr "Samambaia, sua flor está falando!"
 
 #. Key:	5AEA5C7F4EB5E13F37FC0C9552530212
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(7).LinesToFuta
@@ -2910,7 +2910,7 @@ msgstr "Você acaba de se tornar a mais nova habitante de @WORLD_NAME@!"
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R04.Default__BlossomDefault01_R04_C.SessionData.Lines(1).Lines
 msgctxt ",6F2AF65D40C18E8FE71555825585AB6A"
 msgid "Fern need human milk to grow into big Alraune! Hissss, Fern suck nipples now!"
-msgstr "Fern precisa de leite humano para ser uma grande Alraune! Hisss, Fern chupa mamilos agora!"
+msgstr "Samambaia precisa de leite humano para ser uma grande Alraune! Hisss, Samambaia chupa mamilos agora!"
 
 #. Key:	6F4E36894BE6D32AB2BF92B2FB1F5697
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RaiseTraitLvl.Default__EmissaryDefault01_RaiseTraitLvl_C.SessionData.Lines(1).Lines
@@ -3173,7 +3173,7 @@ msgstr "Sim, me satisfaça com a sua língua e os espíritos irão te favorecer.
 #: /Game/Dialogue/Falene/Default/FaleneDefault01_R04.Default__FaleneDefault01_R04_C.SessionData.Lines(7).Lines
 msgctxt ",77D22B994A5CAE9D14BE2DA1F7D43473"
 msgid "Want to taste mine? Hehehe! You can if you want... I would love to feel you sucking on my nipples!"
-msgstr "Quer experimentar os meus? Hehehe. Você pode se quiser... Eu amaria sentir você chupar meus mamilos!"
+msgstr "Quer experimentar os meus? Hehehe. Você pode se quiser... Eu amaria sentir ocê chupar meus mamilos!"
 
 #. Key:	77DDFABE4F632A4183C2FE891D6AC9EA
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(24).LinesToMale
@@ -3338,7 +3338,7 @@ msgstr "Ahh.. ohhh... isso!"
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(1).Lines
 msgctxt ",7ED8B0A7419F30B18D98B1BF4842D4A5"
 msgid "When mastah not want harvest... Blossom do it."
-msgstr "Quando o mestreee não quiser ordenhar a Bllossom ordenha."
+msgstr "Quando o mestreee não quiser ordenhar a Flor ordenha."
 
 #. Key:	7EF1ACD74571884FC8F3A9B17EC12FEC
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.SylvanTreehouse.ManageActionMessage
@@ -4233,7 +4233,7 @@ msgstr "Gerencie suas Foxen"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(3).Lines
 msgctxt ",9935EBCD498F8B600AAED699613B52E9"
 msgid "Many shiny does Fern find in soil. Fern try to eat shiny, too hard."
-msgstr "A Fern acha muitos brilhantes no solo. A Fern tenta comer eles, muito duro."
+msgstr "Samambaia acha muitos brilhantes no solo. Samambaia tenta comer eles, muito duro."
 
 #. Key:	9948725645B6492AE76EDB8B38DB1C7F
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.HarpyAviary.ManageActionMessage
@@ -4254,7 +4254,7 @@ msgstr "O humano em fim vem em busca da minha sabedoria."
 #: /Game/Dialogue/Fern/Default/FernDefault01_R03.Default__FernDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",9A0EF6A841D0C76A871BD39DB09AEFD4"
 msgid "Ohhhh mastah! Finally Fern can have fluids?!"
-msgstr "Hmmm mestree! Finalmente Fern pode ter seus fluidos?!"
+msgstr "Hmmm mestree! Finalmente Samambaia pode ter seus fluidos?!"
 
 #. Key:	9A9EDF3448107C0855BB35BBD9D849F5
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(23).LinesToFemale
@@ -4268,7 +4268,7 @@ msgstr "@MONSTER_RACE@ Abençoados como eu tem a inteligência no nível humano,
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(0).Lines
 msgctxt ",9AF5988A4B6D8F174F3241B67F4033C8"
 msgid "Blossom!"
-msgstr "Blossom!"
+msgstr "Flor!"
 
 #. Key:	9B115CE5485736847F748591F0C8FB2A
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToMale(3).LinesToMale
@@ -4282,7 +4282,7 @@ msgstr "Todos são agradáveis e deliciosos... mas eu tenho esperado algo mais..
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(4).Lines
 msgctxt ",9B2F56474FA9D82EE9F76EBEB5723F74"
 msgid "Hiss... Fern like this... much pleasure, taste is good."
-msgstr "Hiss... A Fern gosta disso... muito prazer, muito gostoso."
+msgstr "Hiss... Samambaia gosta disso... muito prazer, muito gostoso."
 
 #. Key:	9B3D729A40A0E93316F524B863B2BAED
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Neko/Harvest/NekoHarvest.Default__NekoHarvest_C.Harvest.RaceName
@@ -4488,7 +4488,7 @@ msgstr "Ahhh... essa buceta humana é maravilhosa!"
 #: /Game/Dialogue/Fern/SexScenes/FernMilk_01.Default__FernMilk_01_C.SessionData.Lines(0).Lines
 msgctxt ",A3D34227454452C74EC9BEBE9D5B4A17"
 msgid "Mastah's breast so soft! Fern like it."
-msgstr "Os peitos da Mestraaa tão macios! A Fern gosta."
+msgstr "Os peitos da Mestraaa tão macios! Samambaia gosta."
 
 #. Key:	A40264BD4BB3E658212ECE987CC24B4A
 #. SourceLocation:	/Game/Dialogue/Parvati/Default/ParvatiDefault01_Teach.Default__ParvatiDefault01_Teach_C.SessionData.Lines(2).Lines
@@ -4699,7 +4699,7 @@ msgstr "Miau! É uma bela propriedade a que você tem ai em baixo..."
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",AD224A514AC35938B00457BC8B2C7422"
 msgid "Blossom needsss fluidsss!"
-msgstr "Blossom precisa de fluidosss!"
+msgstr "Flor precisa de fluidosss!"
 
 #. Key:	AD4B293B4D8F1432446C92924F59456E
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFemale(22).LinesToFemale
@@ -4799,7 +4799,7 @@ msgstr "Sim @BREEDER_NAME@."
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_Accent.Default__AmberMaeDefault01_Accent_C.SessionData.Lines(1).Lines
 msgctxt ",B1A4C4984540058620CA09A3FC603DBE"
 msgid "Hail from the Northern Isles I do! Aye what a beauty 'mai homeland is..."
-msgstr "Das Ilhas Nortenhas eu vim! Como é bela a minha terra natal..."
+msgstr "Eu vim das Ilhas do Norte! Como é bonita a minha terra natal..."
 
 #. Key:	B1BCFA034FBA8483F5D2578BABDDE685
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(27).LinesToMale
@@ -4835,7 +4835,7 @@ msgstr "Ocê pode me considerar uma conhecedora de leite @MONSTER_RACE@. O leite
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03_R01.Default__BlossomDefault01_R03_R01_C.SessionData.Lines(0).Lines
 msgctxt ",B27218744AEBAD507E1037B620EC16DA"
 msgid "Hiss! Blossom love you mastah!"
-msgstr "Hiss! A Blossom te ama mestree!"
+msgstr "Hiss! Flor te ama mestree!"
 
 #. Key:	B2DF6AC642DDC3C552F43290DCBE4EA7
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToFuta(1).LinesToFuta
@@ -4856,7 +4856,7 @@ msgstr "Uma humana. Uma humana super fofa, esse é meu dia de sorte. Eu tenho ag
 #: /Game/Dialogue/Fern/Default/FernDefault01_R03.Default__FernDefault01_R03_C.SessionData.Lines(1).Lines
 msgctxt ",B36EC36B46E4D040A92BF09236F605F9"
 msgid "Fern need human cum to grow into big Alraune! Hissss, Fern suck dick now!"
-msgstr "Fern precisa de leite humano para ser uma grande Alraune! Hisss, Fern chupar pau agora!"
+msgstr "Samambaia precisa de leite humano para ser uma grande Alraune! Hisss, Samambaia chupar pau agora!"
 
 #. Key:	B3953BA1451F630DE2CF019EB4CB6A69
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(23 - Value).TraitIcons.DisplayName
@@ -4955,7 +4955,7 @@ msgstr "O povo da cidade vêm aqui para relaxar e fazer amor, é lindo."
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(0).Lines
 msgctxt ",B740BA7F4ADFB18E32DFE99606B483B3"
 msgid "Bless me for say'n so, but I was wish'n you'd ask that!"
-msgstr "Desculpe dizer, mas eu estava esperando que você pedisse isso!"
+msgstr "A Deusa que me perdoe, mas eu tava esperando que ocê perguntasse isso!"
 
 #. Key:	B792D83B44DC1E7BF9DAE08B4D4A3E70
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyDefault01_UpHere.Default__RomyDefault01_UpHere_C.SessionData.Lines(0).Lines
@@ -5322,7 +5322,7 @@ msgstr "Entregue o seu corpo a mim e em êxtase vamos faze-lo aprender uma nova 
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",C5E724D9440EB6AC1E01458A6325FC39"
 msgid "Me like this name Fern. Hiss!"
-msgstr "Eu gosto desse nome, Fern. Hiss!"
+msgstr "Eu gosto desse nome, Samambaia. Hiss!"
 
 #. Key:	C5F9CCA94803FF5DA8A42E947B60C68D
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(12).LinesToMale
@@ -5587,7 +5587,7 @@ msgstr "Ah Mestre... Eu tenho esperado por isso."
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(1).Lines
 msgctxt ",D209ED1D49C6A4C6106AC69A3100D415"
 msgid "When mastah not want harvest... Fern do it."
-msgstr "Quando o mestre não quer ordenhar... a Fern ordenha."
+msgstr "Quando o mestre não quer ordenhar... a Samambaia ordenha."
 
 #. Key:	D2DF40244F8B96F91F4101A5AD5F08AA
 #. SourceLocation:	/Game/Dialogue/Camilla/Default/CamillaGreeting01.Default__CamillaGreeting01_C.SessionData.Lines(1).Lines
@@ -5897,21 +5897,21 @@ msgstr "Eu cresci no seu solo e agora ele é meu lar permanente. Espero que gost
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R02.Default__BlossomDefault01_R02_C.SessionData.Lines(1).Lines
 msgctxt ",DC0025004492CEEAE0F8D1A26E169F34"
 msgid "Me like this name Blossom. Hiss!"
-msgstr "Eu gosto desse nome, Blossom. Hiss!"
+msgstr "Eu gosto desse nome, Flor. Hiss!"
 
 #. Key:	DC23BE8C475FA9FCC7F22596C3D47F3F
 #. SourceLocation:	/Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02.Default__FernDefault01_R02_C.SessionData.Lines(2).Lines
 msgctxt ",DC23BE8C475FA9FCC7F22596C3D47F3F"
 msgid "Fern needsss fluidsss!"
-msgstr "Fern precissaa de fluidosss!"
+msgstr "Samambaia precissaa de fluidosss!"
 
 #. Key:	DC843E8A4828B0881624D494C080BC2B
 #. SourceLocation:	/Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/AmberMae/Default/AmberMaeDefault01_SuckJugs.Default__AmberMaeDefault01_SuckJugs_C.SessionData.Lines(1).Lines
 msgctxt ",DC843E8A4828B0881624D494C080BC2B"
 msgid "Awww... I'm blushing something heavy."
-msgstr "Awwwwnn... Eu estou corando bastante."
+msgstr "Awwwwnn... Tô ficando envergonhada."
 
 #. Key:	DC85F26F423721D07495E3AB892F86CC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(4).Lines
@@ -6259,7 +6259,7 @@ msgstr "Carnudo(a)"
 #: /Game/Dialogue/Fern/Default/FernDefault01_R02_R01.Default__FernDefault01_R02_R01_C.SessionData.Lines(2).Lines
 msgctxt ",E89B660E4DCD6EDBFE7FBDB73A354FD0"
 msgid "If mastah let Fern drink mastah's fluids, Fern give shiny. Hiss!"
-msgstr "Se o mestree deixar Fern beber os fluidos do mestree, Fern dá brilhante. Hiss!"
+msgstr "Se o mestree deixar Samabaia beber os fluidos do mestree, Samambaia dá brilhante. Hiss!"
 
 #. Key:	E91EF4164FCD12832A52B095A8557B4A
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.DragonHoard.ManageActionMessage
@@ -6387,7 +6387,7 @@ msgstr "Do favor da Deusa você irá precisar."
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(2).Lines
 msgctxt ",EDFEC0864067F06F1A5A1C9F3501DE00"
 msgid "Fern mouth too... ahhh... small."
-msgstr "A boca da Fern também... ahhh... pequena."
+msgstr "A boca da Samambaia também... ahhh... pequena."
 
 #. Key:	EE11DC6C4F3DE85807004E93DB73A0B2
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_YourVoid.Default__NeelaDefault01_YourVoid_C.SessionData.LinesToFuta(5).LinesToFuta
@@ -6494,14 +6494,14 @@ msgstr "Então @MONSTER_RACE@ estão sempre muito excitados..."
 #: /Game/Dialogue/Fern/SexScenes/FernCum_01.Default__FernCum_01_C.SessionData.Lines(8).Lines
 msgctxt ",F267FA90451165F036048A9D768C4718"
 msgid "Please give Fern all drops. Fern grow faster with more drops... no more drops for purple elf."
-msgstr "Por favor dê para a Fern cada gota. Fern crescer mais rápido com mais gotas... sem mais gotas pra elfa roxa."
+msgstr "Por favor dê para Samambaia cada gota. Samambaia crescer mais rápido com mais gotas... sem mais gotas pra elfa roxa."
 
 #. Key:	F37DF7694328A3895D54B3BC4DB0147D
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(0).Lines
 msgctxt ",F37DF7694328A3895D54B3BC4DB0147D"
 msgid "Blossom help mastah! Blossom harvest fluidssss for you!"
-msgstr "Blossom ajuda mestree! Blossom ordenha fluidosss para você!"
+msgstr "Flor ajuda mestree! Flor ordenha fluidosss para você!"
 
 #. Key:	F39F0EAF49B80BDC208978900604CC74
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R03.Default__FaleneDefault01_R03_C.SessionData.Lines(10).Lines
@@ -6828,7 +6828,7 @@ msgstr "Tamanho Minúsculo"
 #: /Game/Dialogue/Falene/Default/FaleneGreeting01.Default__FaleneGreeting01_C.SessionData.LinesToMale(25).LinesToMale
 msgctxt ",FE11832245764B482A5550B347EB143E"
 msgid "However, some might be more playful about it and surprise you!"
-msgstr "Entretanto, alguns podem ser mais divertidos a respeito disso e podem surpreendê-lo!"
+msgstr "Entretanto, alguns podem ser mais divertidos a respeito e podem surpreende-lo!"
 
 #. Key:	FE908E8B4214DDCF1709D284DCA9D0E1
 #. SourceLocation:	/Game/Dialogue/Cassie/SexScenes/CassieButterButtF.Default__CassieButterButtF_C.SessionData.Lines(1).Lines
@@ -6863,7 +6863,7 @@ msgstr "Sinto que buscas um estoque para cruza de maior qualidade."
 #: /Game/Dialogue/Camilla/Default/CamillaDefault01_R06.Default__CamillaDefault01_R06_C.SessionData.Lines(0).Lines
 msgctxt ",FF56CAFF482C5F43FF4C419DCB359C8A"
 msgid "Mean human! Girthy little lumps have feelings too!"
-msgstr "Humana malvada! Bolinhas feias também têm sentimentos!"
+msgstr "Humana malvada! Bolinhas feias também tem sentimentos!"
 
 #. Key:	FF5A245B4A28E802C1A30CAC4B4DE4E5
 #. SourceLocation:	/Game/Characters/Procedural/Variants/Seraphim/Harvest/SeraphimHarvest.Default__SeraphimHarvest_C.Harvest.Description
